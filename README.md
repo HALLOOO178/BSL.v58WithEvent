@@ -22,5 +22,4 @@ All I did was adding the event
 3: Enjoy playing BSL.v58!
 
 ## Screenshots ##
-![BSL.v58](https://raw.githubusercontent.com/HALLOOO178/BSL.v58WithEvent/main/Screenshots/menu.png)
-"# BSL.v58WithEvent" 
+![BSL.v58](https://github.com/HALLOOO178/BSL.v58WithEvent/blob/main/Screenshots/menu.png?raw=true)
