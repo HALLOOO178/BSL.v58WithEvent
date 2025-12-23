@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoDfM/Jk9ss=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hallo\\Downloads\\BSL.v58withEvent\\BSL.v58.Core\\BSL.v58.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hallo\\.nuget\\packages\\netcoreserver\\8.0.7\\netcoreserver.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
